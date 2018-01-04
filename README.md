@@ -22,7 +22,7 @@ addon | version | summary
 --- | --- | ---
 [base_country_state_translatable](base_country_state_translatable/) | 10.0.1.0.0 | Translate Country States
 [base_location](base_location/) | 10.0.1.0.1 | Enhanced zip/npa management system
-[base_location_geonames_import](base_location_geonames_import/) | 10.0.1.0.1 | Import better zip entries from Geonames
+[base_location_geonames_import](base_location_geonames_import/) | 10.0.1.1.1 | Import better zip entries from Geonames
 [base_location_nuts](base_location_nuts/) | 10.0.1.0.0 | NUTS Regions
 [base_partner_merge](base_partner_merge/) | 10.0.1.0.0 | Partner merge wizard without dependency on CRM
 [base_partner_sequence](base_partner_sequence/) | 10.0.1.0.0 | Sets customer's code from a sequence
@@ -31,6 +31,7 @@ addon | version | summary
 [partner_address_street3](partner_address_street3/) | 10.0.1.0.0 | Add a third address line on partners
 [partner_affiliate](partner_affiliate/) | 10.0.1.0.0 | Partner Affiliates
 [partner_alias](partner_alias/) | 10.0.1.0.0 | Adds aliases to partner names.
+[partner_bank_active](partner_bank_active/) | 10.0.1.0.0 | Allow to deactivate a partner bank account
 [partner_capital](partner_capital/) | 10.0.1.0.0 | Partners Capital
 [partner_changeset](partner_changeset/) | 10.0.1.0.0 | Partner Changesets
 [partner_coc](partner_coc/) | 10.0.1.0.0 | Adds a field 'Chamber Of Commerce Registration Number' to partner
@@ -49,11 +50,13 @@ addon | version | summary
 [partner_contact_personal_information_page](partner_contact_personal_information_page/) | 10.0.1.0.0 | Add a page to contacts form to put personal information
 [partner_contact_weight](partner_contact_weight/) | 10.0.1.0.0 | Provide contact weight
 [partner_create_by_vat](partner_create_by_vat/) | 10.0.1.0.0 | Using VIES webservice, name and address information will be fetched and added to the partner.
+[partner_email_check](partner_email_check/) | 10.0.1.0.0 | Validate email address field
 [partner_employee_quantity](partner_employee_quantity/) | 10.0.1.0.0 | Know how many employees a partner has
 [partner_external_map](partner_external_map/) | 10.0.1.0.0 | Add Map and Map Routing buttons on partner form to open GMaps, OSM, Bing and others
 [partner_firstname](partner_firstname/) | 10.0.2.1.0 | Split first name and last name for non company partners
 [partner_helper](partner_helper/) | 10.0.0.1.0 | Add specific helper methods
 [partner_identification](partner_identification/) | 10.0.1.1.1 | Partner Identification Numbers
+[partner_label](partner_label/) | 10.0.1.0.0 | Print partner labels
 [partner_multi_relation](partner_multi_relation/) | 10.0.1.0.1 | Partner relations
 [partner_password_reset](partner_password_reset/) | 10.0.1.0.0 | Add Wizard to allow resetting of a Partner's associated user password from within the partner view.
 [partner_phone_extension](partner_phone_extension/) | 10.0.1.0.0 | Partner Phone Number Extension
